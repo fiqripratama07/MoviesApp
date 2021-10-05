@@ -1,0 +1,16 @@
+.img {
+    width:60px;
+    height:80px;
+}
+
+.par {
+    margin-left: 20px;
+}
+
+.srch {
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+    margin-top: 20px
+}

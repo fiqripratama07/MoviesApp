@@ -1,0 +1,47 @@
+.cardd {
+    max-width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+    margin-top: 70px;
+}
+
+.img-detail {
+    border-radius: 10px;
+    width: 35%;
+    height: 70%;
+    float: right;
+    margin-top: -140px;
+}
+
+.title {
+    font-size: 50px;
+    max-width:70%;
+}
+
+.tbl {
+    margin-top: 40px;
+    max-width: 50%;
+    float: left;
+}
+
+.img-star {
+    width:40px;
+    height:40px;
+}
+
+.rate {
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.prev {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+.b{
+    margin-left: 10px;
+    color: black;
+}
